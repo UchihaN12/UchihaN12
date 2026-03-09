@@ -14,7 +14,7 @@
 - Факультет/специальность
 
 ## 📊 Статистика
-![Твой-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=UchihaN12&show_icons=true&theme=radical)
+![UchihaN12's GitHub stats](https://github-readme-stats.vercel.app/api?username=UchihaN12&show_icons=true&theme=radical)
 
 ## 📫 Контакты
 - Email: твой@email.com
